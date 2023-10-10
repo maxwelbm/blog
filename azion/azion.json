@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "template": "static",
+  "mode": "azion",
+  "env": "production",
+  "version-id": "20231010160412",
+  "project-root": "/Users/maxwel.mazur/Workspace/my/blog",
+  "function": {
+    "id": 11961,
+    "name": "__DEFAULT__",
+    "file": ".edge/worker.js",
+    "args": "./azion/args.json"
+  },
+  "application": {
+    "id": 1696966519,
+    "name": "__DEFAULT__"
+  },
+  "domain": {
+    "id": 1696966999,
+    "name": "__DEFAULT__"
+  },
+  "rt-purge": {
+    "purge_on_publish": true
+  },
+  "origin": {
+    "id": 111837,
+    "name": "blog",
+    "address": null
+  }
+}

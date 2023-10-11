@@ -1,8 +1,5 @@
 +++
-title = "About"
-description = "Maxwel, programador e engeheiro de software"
-date = "2019-02-28"
-author = "Maxwel Authors"
+title = "Sobre mim"
 +++
 
 Olá, sou um programador especializado em Golang e tenho um conhecimento profundo na linguagem, já lidei com quase todos os casos e usos possíveis, e estou sempre em busca de desafios para aprimorar minhas habilidades. Nas horas vagas, gosto de explorar a linguagem Lua e experimentar coisas novas, sempre disposto a aprender mais e saciar minha curiosidade.

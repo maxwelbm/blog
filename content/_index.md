@@ -1,6 +1,9 @@
 
-# Maxwel Mazur - Engenheiro de Software
+# Bem-vindo ao meu blog! 
 
-<a href="https://ko-fi.com/J3J6H1E68" target="_blank"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_p_logo_nolabel.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+Aqui vamos mergulhar de cabeça no universo da programação e da nerdice! Prepare-se para encontrar códigos, exemplos e experimentos que vão te ajudar a explorar o vasto mundo da programação. Vamos compartilhar conhecimentos, desvendar desafios e nos divertir no mundo dos nerds programadores! Seja bem-vindo(a)!
 
-<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J6H1E68) -->
+Fique à vontade para explorar o meu trabalho e, se gostar do que encontrar, sinta-se incentivado(a) a apoiar com um cafezinho através da plataforma Buy Me A Coffee. Sua contribuição é sempre bem-vinda e ajuda a manter o blog atualizado com muito mais conteúdo nerd e programação! <a href="https://ko-fi.com/maxwelbm" target="_blank"><img src="images/kofi_logo.png" alt="Buy Me A Coffee" width="45px" style="vertical-align: middle;">Buy Me A Coffee</a>. 
+
+<img style="margin-left: 20px;" src="https://media.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif" alt="Buy Me A Coffee">
+

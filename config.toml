@@ -1,7 +1,7 @@
 baseURL = "https://risotto.joeroe.io"
 theme = "risotto"
 title = "maxwelbm"
-author = "Maxwel Mazur"
+author = "Maxwel Bueno Mazur"
 copyright = "© [maxwelbm](https://github.com/maxwelbm) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
 paginate = 3
 languageCode = "en"
@@ -22,9 +22,10 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "maxwelbm"
-description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
-logo = "images/rice.svg"
+title = "Programador"
+description = "Maxwel Bueno Mazur, Programador e Engeheiro De Software"
+author = "Maxwel Authors"
+logo = "images/gopher.gif"
 
 # Sidebar: social links
 # Available icon sets:
@@ -37,14 +38,19 @@ title = "GitHub"
 url = "https://github.com/maxwelbm"
 
 [[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/maxwel-mazur"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-discord"
+title = "Discord"
+url = "https://discord.com/channels/maxwelbm/407909403036090389"
+
+[[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
 url = "mailto:maxwelbm@hotmail.com"
-
-[[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
 
 [menu]
 

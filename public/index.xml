@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>risotto demo</title>
+    <title>maxwelbm</title>
     <link>https://risotto.joeroe.io/</link>
-    <description>Recent content on risotto demo</description>
+    <description>Recent content on maxwelbm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© [Joe Roe](https://joeroe.io) &amp; [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors).</copyright>
+    <copyright>© [maxwelbm](https://github.com/maxwelbm) &amp; [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors).</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://risotto.joeroe.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
@@ -63,14 +63,13 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>Sobre mim</title>
       <link>https://risotto.joeroe.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://risotto.joeroe.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
+      <description>Olá, sou um programador especializado em Golang e tenho um conhecimento profundo na linguagem, já lidei com quase todos os casos e usos possíveis, e estou sempre em busca de desafios para aprimorar minhas habilidades. Nas horas vagas, gosto de explorar a linguagem Lua e experimentar coisas novas, sempre disposto a aprender mais e saciar minha curiosidade.
+Sou um entusiasta do sistema Linux e tenho uma paixão por entender os processos e como as coisas funcionam por debaixo dos panos.</description>
     </item>
     
   </channel>

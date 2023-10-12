@@ -3,7 +3,7 @@
   "template": "static",
   "mode": "azion",
   "env": "production",
-  "version-id": "20231011190703",
+  "version-id": "20231011190715",
   "project-root": "/Users/maxwel.mazur/Workspace/my/blog",
   "function": {
     "id": 11961,

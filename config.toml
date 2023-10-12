@@ -22,7 +22,7 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "Programador"
+title = "maxwelbm"
 description = "Maxwel Bueno Mazur, Programador e Engenheiro De Software"
 author = "Maxwel Authors"
 logo = "images/gopher.gif"
@@ -46,6 +46,17 @@ url = "https://www.linkedin.com/in/maxwel-mazur"
 icon = "fa-brands fa-discord"
 title = "Discord"
 url = "https://discord.com/channels/maxwelbm/407909403036090389"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-stack-overflow"
+title = "StackOverflow"
+url = "https://stackoverflow.com/users/11893276/maxwel-bueno-mazur"
+
+
+[[params.socialLinks]]
+icon = "fa-brands fa-hackerrank"
+title = "HackerRank"
+url = "https://www.hackerrank.com/maxwelbm"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
